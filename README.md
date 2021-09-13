@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Will
 - 👀 I’m interested in coding (as you may have guessed) 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,c++ and c#
 - 📫 How to reach me williampthurston@gmail.com
 
 <!---
